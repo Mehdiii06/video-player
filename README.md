@@ -11,5 +11,8 @@ change the video path to be displayed via the src attribute of the `<video>` tag
 <video controls autoplay src="video.mp4" type="video/*" id="video">
 ```
 
+## Coming soon
+Add a button to choose the video to open from local PC storage without editing the source code.
 
-``PS:`` the APIs used work well with the google chrome browser
+
+```PS:``` the APIs used work well with the google chrome browser
