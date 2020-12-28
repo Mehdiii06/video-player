@@ -1,5 +1,5 @@
 # video-player
-This project is using the html `<video>` tag and its API
+This project is using the HTML5 `<video>` tag and its API, CSS , Javascript.
 
 ![VideoPlayer](VideoPlayer.png)
 
